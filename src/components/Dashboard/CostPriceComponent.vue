@@ -165,7 +165,7 @@ export default {
       glasses: 'Other',
       product: 'Tablet',
       phone_laptop: ['Tablet', 'Iphone 6 <=', 'Iphone 7', 'Iphone 8, X', 'Iphone XS, XR', 'Laptop', 'Old Macbook-Surface', 'New Macbook-Surface'],
-      categories: ['Medicine', 'Perfume', 'Cosmetic', 'Handbag - Glasses', 'Shoe', 'Watch', 'Electronic Apparatus', 'Tablet - Iphone - Laptop'],
+      categories: ['Medicine', 'Perfume', 'Cosmetic', 'Handbag - Glasses', 'Shoes', 'Watch', 'Electronic Apparatus', 'Tablet - Iphone - Laptop'],
       text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
     }
   },
